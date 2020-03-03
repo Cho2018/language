@@ -1,4 +1,4 @@
-# language
+# language_study
 # oop
 2017 '객체지향프로그래밍' 수강 통한 공부 
 1. Fruit: 사과 장사 시뮬레이션 
